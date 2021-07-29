@@ -349,7 +349,7 @@ a {
 }
 .about-us {
   /* border: 1px solid red; */
-  height: 300px;
+  /* height: 300px; */
   width: 960px;
   margin: auto;
   margin-top: 30px;
@@ -399,4 +399,95 @@ a {
   margin-top: -10px;
   float: left;
   background-size: 114px;
+}
+
+/* ------------------ */
+/* testimonial */
+/* ------------------ */
+
+.testimonial-toplogo{
+  width: 114px;
+  background: url(../images/testimonial1.png) no-repeat;
+  height: 114px;
+  margin-left: 10px;
+  margin-top: -10px;
+  float: left;
+  background-size: 114px;
+}
+
+.test{
+  /* height: 152px; */
+  width: 925px;
+    margin: 0px auto;
+    border: solid 1px #bee1f1;
+    border-radius: 5px;
+    font-size: 12px;
+    line-height: 26px;
+    color: #666666;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+}
+
+.comal{
+  /* border: 1px solid red; */
+  width: 30px;
+    height: 24px;
+    background: url(/images/left.png) no-repeat;
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.t-paragraph{
+  font-size: 12px;
+    line-height: 26px;
+    padding-top: 15px;
+    color: #666666;
+}
+.comar{
+  width: 30px;
+    height: 24px;
+    background: url(/images/right.png) no-repeat;
+    float: left;
+    margin-left: 210px;
+    margin-top: -20px;
+}
+
+.test3{
+  /* height: 52px; */
+  width: 200px;
+    font-size: 15px;
+    color: #01579f;
+    float: right;
+    text-align: right;
+    margin-bottom: 15px;
+}
+.comar2{
+  width: 30px;
+    height: 24px;
+    background: url(/images/right.png) no-repeat;
+    float: left;
+    margin-left: 57px;
+    margin-top: -20px;
+}
+.comar3{
+  width: 30px;
+    height: 24px;
+    background: url(/images/right.png) no-repeat;
+    float: right;
+    margin-left: 57px;
+    margin-top: -20px;
+}
+
+.test-last {
+    width: 200px;
+    font-size: 15px;
+    color: #01579f;
+    float: right;
+    text-align: right;
+    margin-bottom: 15px;
+    margin-right: -85px;
+    margin-top: 20px;
 }
